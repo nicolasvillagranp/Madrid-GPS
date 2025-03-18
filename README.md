@@ -15,7 +15,11 @@ The system is built using Python and leverages graph theory to represent Madrid'
 - **Graph Construction:** The system constructs a graph from two datasets containing intersection and street information.
 - **Shortest Path Calculation:** Uses Dijkstra’s algorithm to calculate the shortest path between two points, either by distance or time.
 - **User Interaction:** Allows users to input origin and destination street names, choose whether to prioritize the shortest or fastest path, and receive detailed directions.
-  
+## Example of execution
+
+![Example of execution](prueba_ejecucion_discreta.JPG)
+
+ 
 ## Requirements
 
 - Python 3.x
